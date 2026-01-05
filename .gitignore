@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.idea/
+Supports/
+python-cheatsheets - copie.pdf

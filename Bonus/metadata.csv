@@ -1,0 +1,7 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+# METADATA:,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"# 000BV: Paris 5Ãšme - Tour Zamansky, Jussieu",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# ME099: [MAE] LATMOS - PARIS ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Source: www.infoclimat.fr,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Licence Ouverte/Open License: http://wiki.data.gouv.fr/images/9/9d/Licence_Ouverte.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+string,YYYY-MM-DD hh:mm:ss,Â°C,hPa,hPa,%,Â°C,m,km/h,km/h,km/h,deg,Â°C,Â°C,mm,mm,mm,mm,mm,mm,mm/h,mm/h,W/mÂ²,UV Index,hours,Â°C,https://www.infoclimat.fr/stations-meteo/ww.php,various,"StatIC={oy1110,liveobjects,wlkIPxml,wlkLive,csv,weatherlink,vws,vws2,mnw,weewxPosteriori,wlk2webdlRR,wlkLivePostprocessed,wlk2webdl}|Synop={metno1,ogimet,bufr,inra,arpa-liguria,jma1,swiss-opendata,mcx,meteocentre,andorre,arpa-piemonte}"
